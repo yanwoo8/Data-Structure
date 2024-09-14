@@ -1,4 +1,4 @@
-// DLL Double Linked List : ÀÌÁß ¿¬°á ¸®½ºÆ®
+// DLL Double Linked List : Ã€ÃŒÃÃŸ Â¿Â¬Â°Ã¡ Â¸Â®Â½ÂºÃ†Â®
 // header O, trailer O
 
 #define _CRT_SECURE_NO_WARNINGS
